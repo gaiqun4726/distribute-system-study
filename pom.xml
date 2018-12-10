@@ -11,6 +11,7 @@
     <modules>
         <module>rpc</module>
         <module>reflect</module>
+        <module>netty</module>
     </modules>
 
 
