@@ -12,6 +12,7 @@
         <module>rpc</module>
         <module>reflect</module>
         <module>netty</module>
+        <module>hibernate</module>
     </modules>
 
 
