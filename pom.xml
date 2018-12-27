@@ -13,6 +13,7 @@
         <module>reflect</module>
         <module>netty</module>
         <module>hibernate</module>
+        <module>concurrent</module>
     </modules>
 
 
